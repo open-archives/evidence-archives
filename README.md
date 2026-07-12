@@ -15,3 +15,4 @@ An open-source archive for critical evidence, transcripts, and records.
 - [Media Polarization & Information Warfare History (1950-2026)](data/timeline/media-polarization-history-2026.md)
 - [Welfare Dependence & Poverty as Pacification (2025-2026)](data/timeline/welfare-dependence-inequality-2026.md)
 - [Yuval Noah Harari & WEF Commentary on Pacification (2025-2026)](data/timeline/yuval-noah-harari-wef-2026.md)
+- [Social Fragmentation & Divide-and-Conquer Strategy (2025-2026)](data/timeline/social-fragmentation-2026.md)
