@@ -20,6 +20,7 @@
 - [Canadian Oligarchy & Power Structure Analysis (2025-2026)](../ANALYSIS/04_elite-networks/canadian-oligarchy-power-analysis-2026.md)
 - [Atlas Network — Conflicts of Interest & Far-Right Opinion Shaping Analysis (2025-2026)](../ANALYSIS/04_elite-networks/atlas-network-conflicts-power-analysis-2026.md)
 - [Bill & Melinda Gates Foundation — Conflicts of Interest & Global Power Analysis (2025-2026)](../ANALYSIS/04_elite-networks/gates-foundation-conflicts-power-analysis-2026.md)
+- [Dialog Secret Society — Leak & Member Analysis (2025-2026)](../ANALYSIS/04_elite-networks/dialog-secret-society-leak-2026.md)
 
 ## 05: Military-Industrial
 - [Ukraine Air Defense Shortage & Vulnerability Window (2025-2026)](../ANALYSIS/05_military-industrial/ukraine-air-defense-2026.md)

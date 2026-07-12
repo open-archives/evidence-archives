@@ -37,5 +37,7 @@
 
 ## Political Transparency & Public Filings
 - [Socialist Movement Funding Sources (2025-2026)](../ANALYSIS/08_political-funding/socialist-movement-funding-sources-2026.md)
+- [Congressional Trading - Case Studies (2025-2026)](../ANALYSIS/03_finance/congressional-trading-studies-2026.md)
+- [Dialog Secret Society — Leak & Member Analysis (2025-2026)](../ANALYSIS/04_elite-networks/dialog-secret-society-leak-2026.md)
 - [Canadian Oligarchy & Power Structure Analysis (2025-2026)](../ANALYSIS/04_elite-networks/canadian-oligarchy-power-analysis-2026.md)
 - [Atlas Network — Conflicts of Interest & Far-Right Opinion Shaping Analysis (2025-2026)](../ANALYSIS/04_elite-networks/atlas-network-conflicts-power-analysis-2026.md)

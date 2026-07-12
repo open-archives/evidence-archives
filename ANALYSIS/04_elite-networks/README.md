@@ -10,3 +10,4 @@ Documents in this category:
 - [Canadian Oligarchy & Power Structure Analysis (2025-2026)](canadian-oligarchy-power-analysis-2026.md)
 - [Atlas Network — Conflicts of Interest & Far-Right Opinion Shaping Analysis (2025-2026)](atlas-network-conflicts-power-analysis-2026.md)
 - [Bill & Melinda Gates Foundation — Conflicts of Interest & Global Power Analysis (2025-2026)](gates-foundation-conflicts-power-analysis-2026.md)
+- [Dialog Secret Society — Leak & Member Analysis (2025-2026)](dialog-secret-society-leak-2026.md)
