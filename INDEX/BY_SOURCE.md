@@ -30,3 +30,4 @@
 
 ## Political Transparency & Public Filings
 - [Socialist Movement Funding Sources (2025-2026)](../ANALYSIS/08_political-funding/socialist-movement-funding-sources-2026.md)
+- [Canadian Oligarchy & Power Structure Analysis (2025-2026)](../ANALYSIS/04_elite-networks/canadian-oligarchy-power-analysis-2026.md)

@@ -7,3 +7,4 @@ Documents in this category:
 - [Young Global Leaders (YGL) - Complete Power Network Analysis (2025-2026)](ygl-power-network-analysis-2026.md)
 - [World Health Organization (WHO) - Conflicts of Interest & Governance Analysis (2025-2026)](who-conflicts-governance-analysis-2026.md)
 - [Bilderberg Group — Conflicts of Interest & Power Network Analysis (2025-2026)](bilderberg-conflicts-power-analysis-2026.md)
+- [Canadian Oligarchy & Power Structure Analysis (2025-2026)](canadian-oligarchy-power-analysis-2026.md)
