@@ -128,11 +128,12 @@ The combination of Iran war breakout + early scheduling + defense-focused agenda
 | **Reason for removal** | Not publicly disclosed |
 | **Impact on analysis** | Suggests government protocol concerns or political pressure regarding sitting PM attendance at private elite forum |
 
-**Implications of Removal:**
-- *Sitting PM attendance is anomalous:* Doug Burgum (U.S. Secretary of the Interior) remained on the list—suggesting junior cabinet members can attend, but Prime Minister-level officials face additional scrutiny.
-- *Optics sensitivity:* In an era of heightened scrutiny on elite networks, a sitting PM's association could become a liability (especially given Trudeau-era WEF connections).
-- *Potential pressure points:* U.S.-Canada tensions noted in 2026 (Trump "Board of Peace" incident Jan 2026) may have played a role.
-- *Contradicts "personal capacity" claim:* If Carney couldn't attend due to his official position, this undermines Bilderberg's argument that all participants attend in "personal capacity."
+**Implications of Removal (Revised Assessment):**
+- *Domestic Political Pressure:* Carney faced intense domestic pressure from Conservative opponents and right-leaning media over his extensive globalist background (Goldman Sachs → Bank of Canada → Bank of England → UN → Brookfield → WEF → Bilderberg). Stephen Harper publicly criticized him, and media outlets like *The Hill* and *The Niagara Independent* built an "elite puppet" narrative around his WEF/Bilderberg ties.
+- *Political Self-Preservation:* Having just replaced Trudeau (whose WEF/YGL connections were a political liability), Carney's team likely calculated that a sitting PM attending a secretive elite forum during an active war would be politically catastrophic. His minority government status meant any misstep could collapse the government.
+- *Deliberate Scrubbing:* The fact that he was removed from the list rather than simply not showing up suggests a conscious political decision by his team to request removal from Bilderberg organizers, rather than a mere scheduling conflict.
+- *Macro Trend (The Elite Liability):* Elite network affiliation is increasingly becoming a political liability rather than an asset. Trudeau's WEF connection went from a badge of honor to a political albatross, and Carney's Bilderberg connection followed the same path, demonstrating that public association with these networks is now toxic enough to force active distancing by sitting leaders.
+- *Contradicts "personal capacity" claim:* If Carney couldn't attend due to his official position and political pressure, this undermines Bilderberg's argument that all participants attend in "personal capacity."
 
 ### 2026 Agenda Topics
 | Topic | Significance |
