@@ -16,6 +16,7 @@
 - [BRICS De-Dollarization & Yuan Energy Trade (2025-2026)](../ANALYSIS/03_finance/brics-dedollarization-2026.md)
 - [Ukraine Air Defense Shortage & Vulnerability Window (2025-2026)](../ANALYSIS/05_military-industrial/ukraine-air-defense-2026.md)
 - [U.S. Weapons Manufacturing & Stockpile Depletion (2025-2026)](../ANALYSIS/05_military-industrial/us-weapons-stockpile-2026.md)
+- [Private Prison Profit & Enforcement Mechanisms (2025-2026)](../ANALYSIS/05_military-industrial/private-prison-money-trail-2026.md)
 - [Welfare Dependence & Poverty as Pacification (2025-2026)](../ANALYSIS/07_social-control/welfare-dependence-inequality-2026.md)
 - [Yuval Noah Harari & WEF Commentary on Pacification (2025-2026)](../ANALYSIS/07_social-control/yuval-noah-harari-wef-2026.md)
 - [Social Fragmentation & Divide-and-Conquer Strategy (2025-2026)](../ANALYSIS/07_social-control/social-fragmentation-2026.md)
