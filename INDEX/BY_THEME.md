@@ -19,6 +19,7 @@
 - [Bilderberg Group — Conflicts of Interest & Power Network Analysis (2025-2026)](../ANALYSIS/04_elite-networks/bilderberg-conflicts-power-analysis-2026.md)
 - [Canadian Oligarchy & Power Structure Analysis (2025-2026)](../ANALYSIS/04_elite-networks/canadian-oligarchy-power-analysis-2026.md)
 - [Atlas Network — Conflicts of Interest & Far-Right Opinion Shaping Analysis (2025-2026)](../ANALYSIS/04_elite-networks/atlas-network-conflicts-power-analysis-2026.md)
+- [Bill & Melinda Gates Foundation — Conflicts of Interest & Global Power Analysis (2025-2026)](../ANALYSIS/04_elite-networks/gates-foundation-conflicts-power-analysis-2026.md)
 
 ## 05: Military-Industrial
 - [Ukraine Air Defense Shortage & Vulnerability Window (2025-2026)](../ANALYSIS/05_military-industrial/ukraine-air-defense-2026.md)
