@@ -5,6 +5,7 @@
 - **Speaker:** Gen. Wesley Clark (Retired U.S. Army)
 - **Source:** Democracy Now interview
 - **URL:** https://www.youtube.com/watch?v=Eo6u9DpASp8 (YouTube Mirror)
+- **Video Backup:** [Download Raw Video (MP4)](https://github.com/open-archives/evidence-archives/raw/main/data/timeline/General%20Wesley%20Clark%20Seven%20Countries%20in%20Five%20Years%20%5B2007%5D%20%28240p%29.mp4)
 
 ## Quote
 > "This is a memo that describes how we're going to take out seven countries in five years."
