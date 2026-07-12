@@ -27,3 +27,6 @@
 - [Yuval Noah Harari & WEF Commentary on Pacification (2025-2026)](../ANALYSIS/07_social-control/yuval-noah-harari-wef-2026.md)
 - [Social Fragmentation & Divide-and-Conquer Strategy (2025-2026)](../ANALYSIS/07_social-control/social-fragmentation-2026.md)
 - [CIA-Contra Cocaine & Crack Epidemic (1980s-2026)](../ANALYSIS/07_social-control/contra-cocaine-minority-communities-1980s.md)
+
+## 08: Political Funding
+- [Socialist Movement Funding Sources (2025-2026)](../ANALYSIS/08_political-funding/socialist-movement-funding-sources-2026.md)

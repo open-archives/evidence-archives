@@ -12,6 +12,7 @@ A scalable, decentralized research methodology and permanent archive tracking gl
   - [05_military-industrial](ANALYSIS/05_military-industrial/)
   - [06_media-information](ANALYSIS/06_media-information/)
   - [07_social-control](ANALYSIS/07_social-control/)
+  - [08_political-funding](ANALYSIS/08_political-funding/)
 - [**INDEX/**](INDEX/): The master tables of contents. Browse by [Theme](INDEX/BY_THEME.md), [Year](INDEX/BY_YEAR.md), or [Source](INDEX/BY_SOURCE.md).
 - [**DATA/**](DATA/): Raw PDFs, transcripts, and datasets.
 - [**TOOLS/**](TOOLS/): Scripts for archiving and scraping.

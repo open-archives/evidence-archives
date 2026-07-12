@@ -24,6 +24,7 @@
 - [Welfare Dependence & Poverty as Pacification (2025-2026)](../ANALYSIS/07_social-control/welfare-dependence-inequality-2026.md)
 - [Yuval Noah Harari & WEF Commentary on Pacification (2025-2026)](../ANALYSIS/07_social-control/yuval-noah-harari-wef-2026.md)
 - [Social Fragmentation & Divide-and-Conquer Strategy (2025-2026)](../ANALYSIS/07_social-control/social-fragmentation-2026.md)
+- [Socialist Movement Funding Sources (2025-2026)](../ANALYSIS/08_political-funding/socialist-movement-funding-sources-2026.md)
 
 ## 2026
 - [Jeffrey Epstein Files Release - Clinton Connection](../ANALYSIS/04_elite-networks/epstein-files-clinton-2026.md)
