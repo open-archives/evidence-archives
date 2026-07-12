@@ -18,6 +18,7 @@
 - [World Health Organization (WHO) - Conflicts of Interest & Governance Analysis (2025-2026)](../ANALYSIS/04_elite-networks/who-conflicts-governance-analysis-2026.md)
 - [Bilderberg Group — Conflicts of Interest & Power Network Analysis (2025-2026)](../ANALYSIS/04_elite-networks/bilderberg-conflicts-power-analysis-2026.md)
 - [Canadian Oligarchy & Power Structure Analysis (2025-2026)](../ANALYSIS/04_elite-networks/canadian-oligarchy-power-analysis-2026.md)
+- [Atlas Network — Conflicts of Interest & Far-Right Opinion Shaping Analysis (2025-2026)](../ANALYSIS/04_elite-networks/atlas-network-conflicts-power-analysis-2026.md)
 
 ## 05: Military-Industrial
 - [Ukraine Air Defense Shortage & Vulnerability Window (2025-2026)](../ANALYSIS/05_military-industrial/ukraine-air-defense-2026.md)
