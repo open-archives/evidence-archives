@@ -26,6 +26,7 @@
 - [World Economic Forum (WEF/Davos) - Conflicts of Interest & Policy Positions Analysis (2025-2026)](../ANALYSIS/04_elite-networks/wef-conflicts-policy-analysis-2026.md)
 - [Young Global Leaders (YGL) - Complete Power Network Analysis (2025-2026)](../ANALYSIS/04_elite-networks/ygl-power-network-analysis-2026.md)
 - [World Health Organization (WHO) - Conflicts of Interest & Governance Analysis (2025-2026)](../ANALYSIS/04_elite-networks/who-conflicts-governance-analysis-2026.md)
+- [Bilderberg Group — Conflicts of Interest & Power Network Analysis (2025-2026)](../ANALYSIS/04_elite-networks/bilderberg-conflicts-power-analysis-2026.md)
 
 ## Political Transparency & Public Filings
 - [Socialist Movement Funding Sources (2025-2026)](../ANALYSIS/08_political-funding/socialist-movement-funding-sources-2026.md)

@@ -6,3 +6,4 @@ Documents in this category:
 - [World Economic Forum (WEF/Davos) - Conflicts of Interest & Policy Positions Analysis (2025-2026)](wef-conflicts-policy-analysis-2026.md)
 - [Young Global Leaders (YGL) - Complete Power Network Analysis (2025-2026)](ygl-power-network-analysis-2026.md)
 - [World Health Organization (WHO) - Conflicts of Interest & Governance Analysis (2025-2026)](who-conflicts-governance-analysis-2026.md)
+- [Bilderberg Group — Conflicts of Interest & Power Network Analysis (2025-2026)](bilderberg-conflicts-power-analysis-2026.md)
