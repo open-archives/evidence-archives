@@ -1,18 +1,23 @@
 # Evidence Archives
 
-An open-source archive for critical evidence, transcripts, and records.
+A scalable, decentralized research methodology and permanent archive tracking global structural shifts, geopolitical strategy, financial extraction, and social control mechanisms.
 
-## Archived Documents
+## Directory Structure
 
-- [Gen. Wesley Clark Interview (2007)](data/timeline/wesley-clark-2007.md)
-  - **Video Backup:** [Download Raw Video (MP4)](https://github.com/open-archives/evidence-archives/raw/main/data/timeline/General%20Wesley%20Clark%20Seven%20Countries%20in%20Five%20Years%20%5B2007%5D%20%28240p%29.mp4)
-- [Nord Stream Pipeline Sabotage Investigation](data/timeline/nord-stream-investigation.md)
-- [Trump Family Cryptocurrency Income Disclosures (2024-2026)](data/timeline/trump-crypto-income-2026.md)
-- [Jeffrey Epstein Files Release - Clinton Connection](data/timeline/epstein-files-clinton-2026.md)
-- [BRICS De-Dollarization & Yuan Energy Trade (2025-2026)](data/timeline/brics-dedollarization-2026.md)
-- [Ukraine Air Defense Shortage & Vulnerability Window (2025-2026)](data/timeline/ukraine-air-defense-2026.md)
-- [U.S. Weapons Manufacturing & Stockpile Depletion (2025-2026)](data/timeline/us-weapons-stockpile-2026.md)
-- [Media Polarization & Information Warfare History (1950-2026)](data/timeline/media-polarization-history-2026.md)
-- [Welfare Dependence & Poverty as Pacification (2025-2026)](data/timeline/welfare-dependence-inequality-2026.md)
-- [Yuval Noah Harari & WEF Commentary on Pacification (2025-2026)](data/timeline/yuval-noah-harari-wef-2026.md)
-- [Social Fragmentation & Divide-and-Conquer Strategy (2025-2026)](data/timeline/social-fragmentation-2026.md)
+- [**ANALYSIS/**](ANALYSIS/): Curated research documents sorted by theme.
+  - [01_geopolitics](ANALYSIS/01_geopolitics)
+  - [02_infrastructure](ANALYSIS/02_infrastructure)
+  - [03_finance](ANALYSIS/03_finance)
+  - [04_elite-networks](ANALYSIS/04_elite-networks)
+  - [05_military-industrial](ANALYSIS/05_military-industrial)
+  - [06_media-information](ANALYSIS/06_media-information)
+  - [07_social-control](ANALYSIS/07_social-control)
+- [**INDEX/**](INDEX/): The master tables of contents. Browse by [Theme](INDEX/BY_THEME.md), [Year](INDEX/BY_YEAR.md), or [Source](INDEX/BY_SOURCE.md).
+- [**DATA/**](DATA/): Raw PDFs, transcripts, and datasets.
+- [**TOOLS/**](TOOLS/): Scripts for archiving and scraping.
+
+## How to Contribute
+
+We welcome verifiable, cited submissions. Read our [Contribution Guidelines](CONTRIBUTING.md) to understand the required format, taxonomy, and verification process.
+
+*This is a living archive. Its power is in its modularity, decentralization, and strict adherence to primary source citation.*
