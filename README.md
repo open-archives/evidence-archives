@@ -11,3 +11,4 @@ An open-source archive for critical evidence, transcripts, and records.
 - [Jeffrey Epstein Files Release - Clinton Connection](data/timeline/epstein-files-clinton-2026.md)
 - [BRICS De-Dollarization & Yuan Energy Trade (2025-2026)](data/timeline/brics-dedollarization-2026.md)
 - [Ukraine Air Defense Shortage & Vulnerability Window (2025-2026)](data/timeline/ukraine-air-defense-2026.md)
+- [U.S. Weapons Manufacturing & Stockpile Depletion (2025-2026)](data/timeline/us-weapons-stockpile-2026.md)
