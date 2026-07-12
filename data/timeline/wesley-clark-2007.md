@@ -4,7 +4,7 @@
 - **Date:** March 14, 2007 (transcript date)
 - **Speaker:** Gen. Wesley Clark (Retired U.S. Army)
 - **Source:** Democracy Now interview
-- **URL:** https://youtu.be/9LTdx1nPu3k (YouTube Mirror)
+- **URL:** https://www.youtube.com/watch?v=Eo6u9DpASp8 (YouTube Mirror)
 
 ## Quote
 > "This is a memo that describes how we're going to take out seven countries in five years."
