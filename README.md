@@ -9,3 +9,4 @@ An open-source archive for critical evidence, transcripts, and records.
 - [Nord Stream Pipeline Sabotage Investigation](data/timeline/nord-stream-investigation.md)
 - [Trump Family Cryptocurrency Income Disclosures (2024-2026)](data/timeline/trump-crypto-income-2026.md)
 - [Jeffrey Epstein Files Release - Clinton Connection](data/timeline/epstein-files-clinton-2026.md)
+- [BRICS De-Dollarization & Yuan Energy Trade (2025-2026)](data/timeline/brics-dedollarization-2026.md)
