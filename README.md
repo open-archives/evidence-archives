@@ -13,3 +13,5 @@ An open-source archive for critical evidence, transcripts, and records.
 - [Ukraine Air Defense Shortage & Vulnerability Window (2025-2026)](data/timeline/ukraine-air-defense-2026.md)
 - [U.S. Weapons Manufacturing & Stockpile Depletion (2025-2026)](data/timeline/us-weapons-stockpile-2026.md)
 - [Media Polarization & Information Warfare History (1950-2026)](data/timeline/media-polarization-history-2026.md)
+- [Welfare Dependence & Poverty as Pacification (2025-2026)](data/timeline/welfare-dependence-inequality-2026.md)
+- [Yuval Noah Harari & WEF Commentary on Pacification (2025-2026)](data/timeline/yuval-noah-harari-wef-2026.md)
