@@ -23,6 +23,7 @@
 ## World Economic Forum / Global Institutions
 - [BRICS De-Dollarization & Yuan Energy Trade (2025-2026)](../ANALYSIS/03_finance/brics-dedollarization-2026.md)
 - [Yuval Noah Harari & WEF Commentary on Pacification (2025-2026)](../ANALYSIS/07_social-control/yuval-noah-harari-wef-2026.md)
+- [World Economic Forum (WEF/Davos) - Conflicts of Interest & Policy Positions Analysis (2025-2026)](../ANALYSIS/04_elite-networks/wef-conflicts-policy-analysis-2026.md)
 
 ## Political Transparency & Public Filings
 - [Socialist Movement Funding Sources (2025-2026)](../ANALYSIS/08_political-funding/socialist-movement-funding-sources-2026.md)
