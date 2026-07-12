@@ -11,6 +11,7 @@
 - [Welfare Dependence & Poverty as Pacification (2025-2026)](../ANALYSIS/07_social-control/welfare-dependence-inequality-2026.md)
 - [Private Prison Profit & Enforcement Mechanisms (2025-2026)](../ANALYSIS/05_military-industrial/private-prison-money-trail-2026.md)
 - [Mass Incarceration Global Comparison (2025-2026)](../ANALYSIS/05_military-industrial/mass-incarceration-global-comparison-2026.md)
+- [CIA-Contra Cocaine & Crack Epidemic (1980s-2026)](../ANALYSIS/07_social-control/contra-cocaine-minority-communities-1980s.md)
 
 ## Military / Intelligence / Think Tanks
 - [Gen. Wesley Clark Interview (2007)](../ANALYSIS/01_geopolitics/wesley-clark-2007.md)

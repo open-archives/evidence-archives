@@ -3,6 +3,9 @@
 ## 1950-1991 (Historical Tracking)
 - [Media Polarization & Information Warfare History (1950-2026)](../ANALYSIS/06_media-information/media-polarization-history-2026.md)
 
+## 1980s
+- [CIA-Contra Cocaine & Crack Epidemic (1980s-2026)](../ANALYSIS/07_social-control/contra-cocaine-minority-communities-1980s.md)
+
 ## 2007
 - [Gen. Wesley Clark Interview (2007)](../ANALYSIS/01_geopolitics/wesley-clark-2007.md)
 
