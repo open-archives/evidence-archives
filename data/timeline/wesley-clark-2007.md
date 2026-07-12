@@ -9,7 +9,7 @@
 ## Quote
 > "This is a memo that describes how we're going to take out seven countries in five years."
 
-## Extracted Timeline (AI-Assisted)
+## Extracted Timeline
 | Country | Target Year | Outcome | Source |
 |---------|-------------|---------|--------|
 | Iraq | 2003 | Invasion confirmed | U.S. DoD |
