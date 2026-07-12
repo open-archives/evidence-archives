@@ -26,6 +26,7 @@
 - [Mass Incarceration Global Comparison (2025-2026)](../ANALYSIS/05_military-industrial/mass-incarceration-global-comparison-2026.md)
 - [Welfare Dependence & Poverty as Pacification (2025-2026)](../ANALYSIS/07_social-control/welfare-dependence-inequality-2026.md)
 - [Yuval Noah Harari & WEF Commentary on Pacification (2025-2026)](../ANALYSIS/07_social-control/yuval-noah-harari-wef-2026.md)
+- [Canadian Legislative Package C-8, C-9, C-22 — Anti-Authoritarianism Analysis (2025-2026)](../ANALYSIS/07_social-control/canadian-legislative-package-2026.md)
 - [Social Fragmentation & Divide-and-Conquer Strategy (2025-2026)](../ANALYSIS/07_social-control/social-fragmentation-2026.md)
 - [Socialist Movement Funding Sources (2025-2026)](../ANALYSIS/08_political-funding/socialist-movement-funding-sources-2026.md)
 - [Council on Foreign Relations (CFR) - Conflicts of Interest & Policy Positions Analysis (2025-2026)](../ANALYSIS/04_elite-networks/cfr-conflicts-policy-analysis-2026.md)

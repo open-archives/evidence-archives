@@ -2,14 +2,17 @@
 
 ## Academic / Historical
 - [Media Polarization & Information Warfare History (1950-2026)](../ANALYSIS/06_media-information/media-polarization-history-2026.md)
-- [Social Fragmentation & Divide-and-Conquer Strategy (2025-2026)](../ANALYSIS/07_social-control/social-fragmentation-2026.md)
 - [Jewish Communism Connection: Facts vs. Propaganda (1890-2026)](../ANALYSIS/09_conspiracy-theories/jewish-communism-connection-facts-vs-propaganda-2026.md)
 
 ## Government / Official Releases
 - [Nord Stream Pipeline Sabotage Investigation](../ANALYSIS/02_infrastructure/nord-stream-investigation.md)
 - [Trump Family Cryptocurrency Income Disclosures (2024-2026)](../ANALYSIS/03_finance/trump-crypto-income-2026.md)
 - [Jeffrey Epstein Files Release - Clinton Connection](../ANALYSIS/04_elite-networks/epstein-files-clinton-2026.md)
+
+## Media Manipulation & Social Engineering
+- [Social Fragmentation & Divide-and-Conquer Strategy (2025-2026)](../ANALYSIS/07_social-control/social-fragmentation-2026.md)
 - [Welfare Dependence & Poverty as Pacification (2025-2026)](../ANALYSIS/07_social-control/welfare-dependence-inequality-2026.md)
+- [Canadian Legislative Package C-8, C-9, C-22 — Anti-Authoritarianism Analysis (2025-2026)](../ANALYSIS/07_social-control/canadian-legislative-package-2026.md)
 - [Private Prison Profit & Enforcement Mechanisms (2025-2026)](../ANALYSIS/05_military-industrial/private-prison-money-trail-2026.md)
 - [Mass Incarceration Global Comparison (2025-2026)](../ANALYSIS/05_military-industrial/mass-incarceration-global-comparison-2026.md)
 - [CIA-Contra Cocaine & Crack Epidemic (1980s-2026)](../ANALYSIS/07_social-control/contra-cocaine-minority-communities-1980s.md)
