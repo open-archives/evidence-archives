@@ -30,6 +30,7 @@
 - [Socialist Movement Funding Sources (2025-2026)](../ANALYSIS/08_political-funding/socialist-movement-funding-sources-2026.md)
 - [Council on Foreign Relations (CFR) - Conflicts of Interest & Policy Positions Analysis (2025-2026)](../ANALYSIS/04_elite-networks/cfr-conflicts-policy-analysis-2026.md)
 - [World Economic Forum (WEF/Davos) - Conflicts of Interest & Policy Positions Analysis (2025-2026)](../ANALYSIS/04_elite-networks/wef-conflicts-policy-analysis-2026.md)
+- [Young Global Leaders (YGL) - Complete Power Network Analysis (2025-2026)](../ANALYSIS/04_elite-networks/ygl-power-network-analysis-2026.md)
 
 ## 2026
 - [Jeffrey Epstein Files Release - Clinton Connection](../ANALYSIS/04_elite-networks/epstein-files-clinton-2026.md)
