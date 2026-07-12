@@ -30,3 +30,6 @@
 
 ## 08: Political Funding
 - [Socialist Movement Funding Sources (2025-2026)](../ANALYSIS/08_political-funding/socialist-movement-funding-sources-2026.md)
+
+## 09: Conspiracy Theories
+- [Jewish Communism Connection: Facts vs. Propaganda (1890-2026)](../ANALYSIS/09_conspiracy-theories/jewish-communism-connection-facts-vs-propaganda-2026.md)
