@@ -64,18 +64,6 @@ Before founding Atlas, Fisher:
 | **2025 grant allocation** | $15.7M to pro-freedom organizations |
 | **Operating budget** | Not publicly itemized beyond grant totals |
 
-### Addendum A: The Franchise Model
-Atlas doesn't just fund think tanks — it operates a standardized ideological franchise system under its registered trademark "Coach, Compete, Celebrate®" model:
-| Franchise Element | Atlas Equivalent |
-|-------------------|------------------|
-| **Franchise manual** | Atlas Network Academy curriculum |
-| **Quality control** | Grant competitions (only effective partners funded) |
-| **Brand standards** | "Coach, Compete, Celebrate®" methodology |
-| **Local operator independence** | Partner think tank uses local branding |
-| **Central supply chain** | Atlas provides training, templates, funding |
-| **Performance incentives** | Prize competitions, Liberty Forum recognition |
-
-*Significance:* Partner think tanks are not independent organizations that happen to share views—they are nodes in a coordinated system with standardized methodology and centralized quality control.
 
 ## Part 3: Funding Sources & Financial Transparency
 
@@ -107,17 +95,6 @@ Atlas doesn't just fund think tanks — it operates a standardized ideological f
 
 *Critical point:* While Atlas publishes their own financials (grants made, expenses), they don't disclose who funds them at a granular level beyond acknowledging the "Koch Foundation" among donors.
 
-### Addendum B: The "Laundered Influence" Proxy Mechanism
-Atlas acts as a "connector" allowing corporate donors to influence foreign policy without their name appearing on the campaign:
-| Step | Actor | Visibility |
-|------|-------|------------|
-| **1. Funding decision** | Corporate donor (Exxon, Koch, etc.) | Hidden |
-| **2. Fund transfer** | Atlas Network (501(c)(3)) | Partial |
-| **3. Grant distribution** | Local partner think tank | Visible (as "independent") |
-| **4. Policy output** | Research paper, op-ed, campaign | Visible (no donor attribution) |
-| **5. Policy impact** | Regulation delayed, public opinion shifted | Visible (cause unclear) |
-
-*The donor's fingerprints are washed at step 2. By step 4, the output appears as "local civil society advocacy" rather than corporate-funded influence.*
 
 ## Part 4: Far-Right Political Pipeline
 
@@ -227,15 +204,6 @@ From BMJ Open / PMC publication:
 
 ## Part 7: Opinion-Shaping Strategies
 
-### Addendum C: Ideological Flexibility as Strategic Adaptation
-The ideology adapts to the local market. The policy destination stays the same.
-| Context | Atlas Messaging | Actual Policy Goal |
-|---------|-----------------|--------------------|
-| **U.S./UK (democratic tradition)** | "Individual liberty," "free markets" | Deregulation, tax cuts |
-| **Argentina (crisis economy)** | "Destroy the political caste," "chainsaw" | Shock therapy, privatization |
-| **Brazil (populist moment)** | Anti-globalization, anti-elite | Deregulation, resource extraction |
-| **Eastern Europe (nationalist surge)** | Cultural conservatism, sovereignty | Deregulation, weakened unions |
-| **Global South (development context)** | "Removing barriers to opportunity" | Privatization, foreign investment access |
 
 ### Social Media Strategy
 **Milei/Bolsonaro playbook:**
@@ -247,6 +215,43 @@ The ideology adapts to the local market. The policy destination stays the same.
 - "Hate ministries" - coordinated attack on critics
 
 *Atlas role:* Training partners in digital strategy, funding campaigns, connecting influencers.
+
+## Part 7A: Structural Analysis Addenda
+
+### Addendum A: The Franchise Model
+Atlas doesn't just fund think tanks — it operates a standardized ideological franchise system under its registered trademark "Coach, Compete, Celebrate®" model:
+| Franchise Element | Atlas Equivalent |
+|-------------------|------------------|
+| **Franchise manual** | Atlas Network Academy curriculum |
+| **Quality control** | Grant competitions (only effective partners funded) |
+| **Brand standards** | "Coach, Compete, Celebrate®" methodology |
+| **Local operator independence** | Partner think tank uses local branding |
+| **Central supply chain** | Atlas provides training, templates, funding |
+| **Performance incentives** | Prize competitions, Liberty Forum recognition |
+
+*Significance:* Partner think tanks are not independent organizations that happen to share views—they are nodes in a coordinated system with standardized methodology and centralized quality control.
+
+### Addendum B: The "Laundered Influence" Proxy Mechanism
+Atlas acts as a "connector" allowing corporate donors to influence foreign policy without their name appearing on the campaign:
+| Step | Actor | Visibility |
+|------|-------|------------|
+| **1. Funding decision** | Corporate donor (Exxon, Koch, etc.) | Hidden |
+| **2. Fund transfer** | Atlas Network (501(c)(3)) | Partial |
+| **3. Grant distribution** | Local partner think tank | Visible (as "independent") |
+| **4. Policy output** | Research paper, op-ed, campaign | Visible (no donor attribution) |
+| **5. Policy impact** | Regulation delayed, public opinion shifted | Visible (cause unclear) |
+
+*The donor's fingerprints are washed at step 2. By step 4, the output appears as "local civil society advocacy" rather than corporate-funded influence.*
+
+### Addendum C: Ideological Flexibility as Strategic Adaptation
+The ideology adapts to the local market. The policy destination stays the same.
+| Context | Atlas Messaging | Actual Policy Goal |
+|---------|-----------------|--------------------|
+| **U.S./UK (democratic tradition)** | "Individual liberty," "free markets" | Deregulation, tax cuts |
+| **Argentina (crisis economy)** | "Destroy the political caste," "chainsaw" | Shock therapy, privatization |
+| **Brazil (populist moment)** | Anti-globalization, anti-elite | Deregulation, resource extraction |
+| **Eastern Europe (nationalist surge)** | Cultural conservatism, sovereignty | Deregulation, weakened unions |
+| **Global South (development context)** | "Removing barriers to opportunity" | Privatization, foreign investment access |
 
 ## Part 8: European Operations
 
