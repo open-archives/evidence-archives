@@ -11,3 +11,4 @@ Documents in this category:
 - [Peter Thiel, Palantir & Surveillance State — Comprehensive Analysis (2025-2026)](peter-thiel-palantir-surveillance-2026.md)
 - [Canadian Media Consolidation — Ownership Chains & Editorial Influence (2025-2026)](canadian-media-consolidation-2026.md)
 - [Canada "Catch and Release" Policies & Bill C-14 Reform (2026)](canada-catch-and-release-2026.md)
+- [Canada Gun Control Framework (2026)](canada-gun-control-2026.md)
