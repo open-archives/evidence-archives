@@ -1,9 +1,9 @@
-# Final Synthesis: The Military-Industrial-Congressional Complex — From Eisenhower's Warning to Section 219
+# Evidence Locker: The Military-Industrial-Congressional Complex — From Eisenhower's Warning to Section 219
 
 **Archive ID**: `EL-MIC-SYNTHESIS-2026`  
 **Series**: Military-Industrial / Elite Networks / Geopolitics  
 **Compiled Date:** 13 Jul 2026  
-**Version**: 1.0  
+**Version**: 2.0 (Final)  
 **Status**: PUBLISH READY
 
 ---
@@ -14,7 +14,7 @@ This document synthesizes the entire military-industrial thread of the Evidence 
 
 **The thesis:** Eisenhower warned of a "military-industrial-congressional complex" whose "unwarranted influence" would distort American democracy. That warning was ignored — and the system he described is now fully realized, institutionalized, and expanding through mechanisms like Section 219.
 
-**The evidence:** This archive documents each component of the complex — the legislative mechanism (Section 219), the lobbying engine (AIPAC), the ideological think tank (FDD), the geopolitical output (Wesley Clark's seven countries), and the historical foundation (Eisenhower and JFK). Together, they form a single, interconnected system.
+**The evidence:** This archive documents each component of the complex — the legislative mechanism (Section 219, renumbered to Section 2019 in the House version), the lobbying engine (AIPAC), the ideological think tank (FDD), the geopolitical output (Wesley Clark's seven countries, Venezuela, Iran), and the historical foundation (Eisenhower and JFK). Together, they form a single, interconnected system.
 
 ---
 
@@ -30,11 +30,11 @@ This document synthesizes the entire military-industrial thread of the Evidence 
 | **Original draft** | "Military-industrial-congressional complex" — softened at his brother Milton's urging |
 | **Core warning** | "Unwarranted influence" and "misplaced power" |
 | **The threat** | "The potential for the disastrous rise of misplaced power exists and will persist" |
-| **Economic dimension** | Eisenhower also warned of the **economic drain** of permanent military spending, fearing it could lead to national bankruptcy |
+| **Economic dimension** | Eisenhower also warned of the economic drain of permanent military spending, fearing it could lead to national bankruptcy |
 
 ### Eisenhower's Martial Authority
 
-Eisenhower was an unlikely critic. His administration maintained annual military budgets of $42–49 billion — three to four times higher than the brief postwar demobilization. Yet it was **precisely his martial posture** that gave authority to his warning.
+Eisenhower was an unlikely critic. His administration maintained annual military budgets of $42–49 billion — three to four times higher than the brief postwar demobilization. Yet it was precisely his martial posture that gave authority to his warning.
 
 > *"Eisenhower's warnings were far from pacifist... they were deeply felt, grounded in his own bitter experiences."*
 
@@ -46,7 +46,7 @@ Eisenhower's brother Milton — a figure who "almost certainly encouraged Eisenh
 
 ### Kennedy's Embrace — January 20, 1961
 
-Just **three days** after Eisenhower's warning, John F. Kennedy delivered his inaugural address:
+Just three days after Eisenhower's warning, John F. Kennedy delivered his inaugural address:
 
 | Eisenhower (Jan 17) | Kennedy (Jan 20) |
 |---------------------|------------------|
@@ -69,7 +69,8 @@ Kennedy campaigned on a "missile gap" — promoted by defense hawks and weapons 
 |---------|--------|
 | **Founded** | 1954 (as AZCPA); renamed 1959 |
 | **Lobbying spending (2025)** | $3.8M |
-| **PAC spending (2024)** | $53M+ to 361 candidates; 96% won |
+| **PAC spending (2025–2026 cycle)** | ~$28M |
+| **Pro-Israel war chest** | Over $100M for 2026 cycle |
 | **Revolving door** | 66 former staff in U.S. federal government; 40 in Congress; 7 in Israeli government |
 | **Function** | Ensures a "pro-Israel majority in Congress" |
 | **Role in Section 219** | Lobbied for the permanent U.S.-Israel military integration provision |
@@ -90,18 +91,25 @@ Kennedy campaigned on a "missile gap" — promoted by defense hawks and weapons 
 
 **Eisenhower's "ideological" component — think tanks shaping policy.**
 
-### Section 219 — The Legislative Mechanism
+### Section 219 (Formerly 224) — The Legislative Mechanism
 
 | Element | Detail |
 |---------|--------|
+| **Official title** | "United States-Israel Defense Technology Cooperation Initiative" |
+| **Renumbered** | Section 224 → Section 219 → Section 2019 (House version) |
 | **What it does** | Mandates permanent U.S.-Israel military integration |
 | **Key provisions** | Executive agent, technology co-production, data fusion, AI/quantum/autonomous systems |
 | **Critics' view** | "Fuses" the two militaries; bypasses annual aid votes |
 | **Supporters** | AIPAC, FDD, Reps. Rogers and Smith |
 | **Opponents** | Khanna, Massie, Jacobs, Sanders, CAIR |
-| **Status** | House version (renumbered from 224); Senate pending |
+| **Status** | Passed House as part of ~$900B NDAA (must-pass legislation) |
+| **Counterintelligence concerns** | Israeli intelligence collection activities cited as risk |
 
 **Eisenhower's "military-industrial" component — institutionalized permanently.**
+
+### NDAA as "Must-Pass" Legislation
+
+The NDAA is considered "must-pass" legislation, as it has been passed annually for over sixty years. This status allows for the inclusion of controversial provisions like Section 219, which might otherwise fail to gain support. The House version of the NDAA for 2027 is a ~$900 billion bill, making it a vehicle for many policy changes.
 
 ### The Wesley Clark Memo — The Geopolitical Output
 
@@ -111,9 +119,29 @@ Kennedy campaigned on a "missile gap" — promoted by defense hawks and weapons 
 | **Revelation** | 2007 interview: "This is a memo that describes how we're going to take out seven countries in five years" |
 | **The list** | Iraq, Libya, Syria, Somalia, Sudan, Lebanon, Iran |
 | **Outcome (2026)** | All seven countries have been engaged militarily or destabilized |
-| **Venezuela (2026)** | Added to the list — U.S. military raid captured Maduro |
 
 **Eisenhower's "misplaced power" — military force as primary foreign policy tool.**
+
+### Venezuela (2026) — The List Expands
+
+| Element | Detail |
+|---------|--------|
+| **Operation** | "Absolute Resolve" |
+| **Date** | January 3, 2026 |
+| **Target** | Capture of Nicolás Maduro and Cilia Flores |
+| **Outcome** | Captured; transported to New York to face narcoterrorism charges |
+| **Legal concerns** | UN Charter violation; lack of Security Council authorization |
+
+### Iran (2026) — The Clark List Completed
+
+| Element | Detail |
+|---------|--------|
+| **Date** | February 28, 2026 |
+| **Actors** | United States and Israel |
+| **Scope** | Nearly 900 strikes in first 12 hours |
+| **Stated aims** | Regime change; targeting nuclear and ballistic missile programs |
+| **Outcome** | Conflict escalated; Islamabad Memorandum signed June 2026 |
+| **Reopening of Strait of Hormuz** | Part of the June 2026 agreement |
 
 ---
 
@@ -141,10 +169,11 @@ Kennedy campaigned on a "missile gap" — promoted by defense hawks and weapons 
 │  │  │   AIPAC      │  │     FDD      │  │  SECTION 219 │  │  │
 │  │  │  (Lobbying)  │  │  (Think Tank)│  │  (Legislative)│  │  │
 │  │  │              │  │              │  │              │  │  │
-│  │  │  - $3.8M Lobby│  │  - $10M Budget│  │  - Military  │  │  │
-│  │  │  - $53M PAC  │  │  - Revolving  │  │    Fusion    │  │  │
-│  │  │  - 66 Staff  │  │    Door      │  │  - Data      │  │  │
-│  │  │    in Govt   │  │  - Iran Focus │  │    Fusion    │  │  │
+│  │  │  - $28M PAC  │  │  - $10M Budget│  │  - Military  │  │  │
+│  │  │  - $100M     │  │  - Revolving  │  │    Fusion    │  │  │
+│  │  │    War Chest │  │    Door      │  │  - Data      │  │  │
+│  │  │  - 66 Staff  │  │  - Iran Focus │  │    Fusion    │  │  │
+│  │  │    in Govt   │  │              │  │  - Must-Pass  │  │  │
 │  │  └──────────────┘  └──────────────┘  └──────────────┘  │  │
 │  │                          │                                      │
 │  │                          ▼                                      │
@@ -178,8 +207,10 @@ Kennedy campaigned on a "missile gap" — promoted by defense hawks and weapons 
 | **Kennedy embraced military expansion** | ✅ Yes | Inaugural address; historical record | Three days after Eisenhower |
 | **AIPAC is the "congressional" component** | ✅ Yes | Lobbying disclosures; DAWN report; Section 219 advocacy | Eisenhower's original warning fully realized |
 | **FDD is the "ideological" engine** | ✅ Yes | FDD publications; critics' analysis | "Ideological extension of Israeli doctrine" |
-| **Section 219 institutionalizes military fusion** | ✅ Yes | House NDAA text; HASC markup | Renumbered from 224 |
+| **Section 219 institutionalizes military fusion** | ✅ Yes | House NDAA text; HASC markup | Renumbered from 224 to 2019 |
 | **Wesley Clark memo predicted seven countries** | ✅ Yes | Clark's 2007 interview; outcome documented | All seven engaged by 2026 |
+| **Venezuela operation was UN Charter violation** | ✅ Yes | International legal analysis | No UN Security Council authorization |
+| **Iran strikes included regime change aim** | ✅ Yes | February 2026 reporting | Official justifications varied |
 | **The system is now fully realized** | ✅ Yes | All entries in this archive | Eisenhower's warning fulfilled |
 
 ---
@@ -211,7 +242,7 @@ Kennedy campaigned on a "missile gap" — promoted by defense hawks and weapons 
 | **Congressional influence** | Softened from original draft | AIPAC dominates |
 | **Think tanks** | Not mentioned | FDD shapes policy |
 | **Misplaced power** | "Potential exists" | Fully realized |
-| **Economic drain** | Feared national bankruptcy | ~$1T+ defense budget |
+| **Economic drain** | Feared national bankruptcy | ~$900B+ NDAA |
 | **Permanent arms industry** | Warned against | Institutionalized; expected |
 
 **The system Eisenhower warned against — the conjunction of military, industry, and Congress — is now fully realized.**
@@ -236,7 +267,7 @@ Kennedy campaigned on a "missile gap" — promoted by defense hawks and weapons 
 | Field | Value |
 |-------|-------|
 | **Archive ID** | `EL-MIC-SYNTHESIS-2026` |
-| **Version** | 1.0 |
+| **Version** | 2.0 (Final) |
 | **Status** | PUBLISH READY |
 | **Related Entries** | `EL-US-ISRAEL-NDAA-224-2026`, `EL-AIPAC-2026`, `EL-FDD-2026`, `EL-EISENHOWER-JFK-1961`, `EL-WESLEY-CLARK-2007`, `EL-GEO-VENEZUELA-2026` |
 | **Licensing** | CC-BY-NC |
@@ -244,3 +275,20 @@ Kennedy campaigned on a "missile gap" — promoted by defense hawks and weapons 
 ---
 
 **Navigation**: [← Return to 05_military-industrial README](../README.md) | [Evidence Locker Main →](../../README.md)
+
+---
+
+## Final Note
+
+This archive now documents the full arc:
+
+| Component | Entry |
+|-----------|-------|
+| **Historical warning** | Eisenhower & JFK |
+| **Lobbying engine** | AIPAC |
+| **Ideological engine** | FDD |
+| **Legislative mechanism** | Section 219 |
+| **Geopolitical output** | Wesley Clark memo → Iran, Venezuela |
+| **Synthesis** | This document |
+
+**The system is documented. The evidence is on the record. The archive is complete.**
