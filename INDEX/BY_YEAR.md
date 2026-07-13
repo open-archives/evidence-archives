@@ -24,6 +24,7 @@
 - [U.S. Weapons Manufacturing & Stockpile Depletion (2025-2026)](../ANALYSIS/05_military-industrial/us-weapons-stockpile-2026.md)
 - [Private Prison Profit & Enforcement Mechanisms (2025-2026)](../ANALYSIS/05_military-industrial/private-prison-money-trail-2026.md)
 - [Mass Incarceration Global Comparison (2025-2026)](../ANALYSIS/05_military-industrial/mass-incarceration-global-comparison-2026.md)
+- [Surveillance Technology Arms Race — Global Market & Government Adoption (2025-2026)](../ANALYSIS/05_military-industrial/surveillance-tech-arms-race-2026.md)
 - [Welfare Dependence & Poverty as Pacification (2025-2026)](../ANALYSIS/07_social-control/welfare-dependence-inequality-2026.md)
 - [Yuval Noah Harari & WEF Commentary on Pacification (2025-2026)](../ANALYSIS/07_social-control/yuval-noah-harari-wef-2026.md)
 - [Canadian Legislative Package C-8, C-9, C-22 — Anti-Authoritarianism Analysis (2025-2026)](../ANALYSIS/07_social-control/canadian-legislative-package-2026.md)

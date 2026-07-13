@@ -25,6 +25,7 @@
 - [Gen. Wesley Clark Interview (2007)](../ANALYSIS/01_geopolitics/wesley-clark-2007.md)
 - [Ukraine Air Defense Shortage & Vulnerability Window (2025-2026)](../ANALYSIS/05_military-industrial/ukraine-air-defense-2026.md)
 - [U.S. Weapons Manufacturing & Stockpile Depletion (2025-2026)](../ANALYSIS/05_military-industrial/us-weapons-stockpile-2026.md)
+- [Surveillance Technology Arms Race — Global Market & Government Adoption (2025-2026)](../ANALYSIS/05_military-industrial/surveillance-tech-arms-race-2026.md)
 - [Council on Foreign Relations (CFR) - Conflicts of Interest & Policy Positions Analysis (2025-2026)](../ANALYSIS/04_elite-networks/cfr-conflicts-policy-analysis-2026.md)
 
 ## World Economic Forum / Global Institutions

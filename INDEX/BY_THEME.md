@@ -27,6 +27,7 @@
 - [U.S. Weapons Manufacturing & Stockpile Depletion (2025-2026)](../ANALYSIS/05_military-industrial/us-weapons-stockpile-2026.md)
 - [Private Prison Profit & Enforcement Mechanisms (2025-2026)](../ANALYSIS/05_military-industrial/private-prison-money-trail-2026.md)
 - [Mass Incarceration Global Comparison (2025-2026)](../ANALYSIS/05_military-industrial/mass-incarceration-global-comparison-2026.md)
+- [Surveillance Technology Arms Race — Global Market & Government Adoption (2025-2026)](../ANALYSIS/05_military-industrial/surveillance-tech-arms-race-2026.md)
 
 ## 06: Media & Information
 - [Media Polarization & Information Warfare History (1950-2026)](../ANALYSIS/06_media-information/media-polarization-history-2026.md)
