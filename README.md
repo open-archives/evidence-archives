@@ -23,3 +23,17 @@ A scalable, decentralized research methodology and permanent archive tracking gl
 We welcome verifiable, cited submissions. Read our [Contribution Guidelines](CONTRIBUTING.md) to understand the required format, taxonomy, and verification process.
 
 *This is a living archive. Its power is in its modularity, decentralization, and strict adherence to primary source citation.*
+
+## Historical Foundation
+
+The colonial history that underpins this analysis is documented separately in the **[Evidence Locker — Colonialism Series](https://github.com/open-archives/evidence-locker-colonialism)** repository.
+
+That series covers:
+- **Berlin Conference (1884-85)** — the Scramble for Africa
+- **Indochina / Vietnam** — French colonialism + U.S. proxy war
+- **North America** — Early Contact, Removal, Residential Schools, Modern Legacies
+- **South America** — Encomienda, Potosí, Dependency
+- **Religious Missionaries** — conversion as colonial tool
+- **Post-Colonial Economics** — IMF/World Bank, CFA franc
+- **Neocolonial Infrastructure** — China vs. U.S. competition
+
