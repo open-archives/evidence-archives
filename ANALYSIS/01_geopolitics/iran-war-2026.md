@@ -3,7 +3,7 @@
 **Archive ID**: `EL-GEO-IRAN-2026`  
 **Series**: Geopolitics / Regime Change  
 **Compiled Date:** 13 Jul 2026  
-**Version**: 2.1 (Updated — Gulf Infrastructure Damage Added)  
+**Version**: 2.2 (Updated — Sections Reorganized)  
 **Status**: PUBLISH READY
 
 ---
@@ -90,45 +90,74 @@ The Wesley Clark memo — the 2001 Pentagon document listing seven countries to 
 
 ---
 
-## Part 4: The Funeral — What Was Reported
+## Part 4: Damage to Gulf State Infrastructure
 
-Following Khamenei's death, Iran held a massive funeral procession spanning multiple cities and days.
+Iran's retaliatory strikes have systematically targeted military, energy, and transport infrastructure across the Gulf region. As of July 2026, Iran has launched more than **4,000 projectiles** against Gulf Cooperation Council (GCC) states.
 
-### Reported Attendance
+### 🇧🇭 Bahrain
 
-| Source | Figure Reported | Notes |
-|--------|-----------------|-------|
-| **Iranian state media (Fars, AhlulBayt News, etc.)** | 41–43 million | Combined attendance across Iran and Iraq |
-| **Iraqi officials** | ~10 million | Confirmed in Najaf and Karbala alone |
-| **Tehran only (pre-event estimate)** | 15–20 million | Over three days of mourning |
-| **Karbala/Najaf only** | ~10 million | Confirmed by Iraqi authorities |
-| **"Worldwide" claim** | 40+ million | Includes Iran, Iraq, and international mourners |
+| Target | Damage Reported |
+|--------|-----------------|
+| **Shaikh Isa Air Base** | Command and control center destroyed; helicopter overhaul and maintenance centers hit; Boeing P-8 Poseidon aircraft hangar destroyed |
+| **Juffair Base** | Facilities and infrastructure reportedly hit |
+| **Communications & Radar** | US military communications system and radar installations targeted |
 
-### How the 41–43 Million Figure Was Reported
+### 🇰🇼 Kuwait
 
-| Factor | Explanation |
-|--------|-------------|
-| **Multiple cities** | The funeral procession spanned six days across five Iranian cities (Tehran, Qom, Mashhad, and others) plus two Iraqi cities (Najaf and Karbala) |
-| **Cumulative attendance** | The total represents combined attendance across all locations over multiple days |
-| **Iraqi confirmation** | Iraqi officials confirmed approximately 10 million attendees in Najaf and Karbala alone |
-| **State media reporting** | Iranian state media compiled and released the 41–43 million figure |
+| Target | Damage Reported |
+|--------|-----------------|
+| **Ali Al Salem Air Base** | Patriot air defense system destroyed; ammunition depot hit; HIMARS rocket systems destroyed |
+| **Ahmad al-Jaber Air Base** | Solid-state phased-array radar system destroyed |
+| **Offshore Oil Platform** | Kuwait Oil Company drilling platform struck by drone; one worker injured |
+| **Northern Border Posts** | Three land border posts damaged |
 
-### What Was Claimed
+### 🇶🇦 Qatar
 
-| What Was Claimed | By Whom |
-|------------------|---------|
-| 41–43 million attendees | Iranian state media (Fars, AhlulBayt News Agency, etc.) |
-| Largest funeral in human history | Iranian officials and state media |
+| Target | Damage Reported |
+|--------|-----------------|
+| **Al Udeid Air Base** | Command center and aircraft maintenance facility destroyed |
+| **Civilian Impact** | Two waves of ballistic missiles intercepted over Doha; falling debris injured three people, including a child |
+| **Hamad International Airport** | Attempted strike; airport operations disrupted |
 
-### What Can Be Confirmed
+### 🇴🇲 Oman
 
-| Certainty | Statement |
-|-----------|-----------|
-| **Confirmed** | Iranian state media claimed 41–43 million attendees |
-| **Confirmed** | Iraqi officials confirmed ~10 million in Najaf and Karbala |
-| **Confirmed** | The funeral was held over multiple days across five Iranian cities and two Iraqi cities |
-| **Confirmed** | The crowd was enormous — widely described as one of the largest gatherings in modern history |
-| **Confirmed** | The 41–43 million figure is a cumulative total across all locations and days |
+| Target | Damage Reported |
+|--------|-----------------|
+| **Radar Systems** | FPS long-range aerial radar destroyed; vessel detection radar destroyed |
+| **Port of Duqm** | Key logistics center and refueling platform for US aircraft carriers hit |
+
+### 🇯🇴 Jordan
+
+| Target | Damage Reported |
+|--------|-----------------|
+| **Prince Hassan Air Base** | Fuel tanks and ammunition depots struck; command-and-control center and drone hangars reportedly destroyed |
+| **Civilian Casualties** | One missile reportedly hit a civilian house |
+
+### 🇦🇪 United Arab Emirates
+
+| Target | Damage Reported |
+|--------|-----------------|
+| **Defensive Actions** | UAE activated interceptor protocols after detecting drone and missile threats |
+| **Civilian Impact** | Loud explosions from interceptions heard near Abu Dhabi |
+
+### 🇸🇦 Saudi Arabia
+
+| Target | Damage Reported |
+|--------|-----------------|
+| **Ras Tanura Refinery** | Hit by Iranian strikes |
+| **Yanbu Refinery** | Hit by Iranian strikes |
+| **Maritime Attack** | Saudi oil tanker *Wadiyan* attacked and damaged in the Strait of Hormuz |
+
+### Overall Impact
+
+| Metric | Value |
+|--------|-------|
+| **Total Iranian projectiles launched (GCC)** | 4,000+ (as of July 2026) |
+| **Countries hit** | Bahrain, Kuwait, Qatar, Oman, Jordan, UAE, Saudi Arabia |
+| **Target type** | Military facilities, radar systems, energy infrastructure, ports, civilian areas |
+| **Casualties (Gulf states)** | 100+ military and civilian casualties confirmed |
+
+**Strategic significance:** The damage extends well beyond military sites and is "significantly weighted towards civilian infrastructure that is central to the global economy." The attacks pose a major threat to regional economic stability.
 
 ---
 
@@ -230,74 +259,45 @@ Despite the fighting, multiple mediation efforts continue:
 
 ---
 
-## Part 11: Damage to Gulf State Infrastructure
+## Part 11: The Funeral — What Was Reported
 
-Iran's retaliatory strikes have systematically targeted military, energy, and transport infrastructure across the Gulf region. As of July 2026, Iran has launched more than **4,000 projectiles** against Gulf Cooperation Council (GCC) states.
+Following Khamenei's death, Iran held a massive funeral procession spanning multiple cities and days.
 
-### 🇧🇭 Bahrain
+### Reported Attendance
 
-| Target | Damage Reported |
-|--------|-----------------|
-| **Shaikh Isa Air Base** | Command and control center destroyed; helicopter overhaul and maintenance centers hit; Boeing P-8 Poseidon aircraft hangar destroyed |
-| **Juffair Base** | Facilities and infrastructure reportedly hit |
-| **Communications & Radar** | US military communications system and radar installations targeted |
+| Source | Figure Reported | Notes |
+|--------|-----------------|-------|
+| **Iranian state media (Fars, AhlulBayt News, etc.)** | 41–43 million | Combined attendance across Iran and Iraq |
+| **Iraqi officials** | ~10 million | Confirmed in Najaf and Karbala alone |
+| **Tehran only (pre-event estimate)** | 15–20 million | Over three days of mourning |
+| **Karbala/Najaf only** | ~10 million | Confirmed by Iraqi authorities |
+| **"Worldwide" claim** | 40+ million | Includes Iran, Iraq, and international mourners |
 
-### 🇰🇼 Kuwait
+### How the 41–43 Million Figure Was Reported
 
-| Target | Damage Reported |
-|--------|-----------------|
-| **Ali Al Salem Air Base** | Patriot air defense system destroyed; ammunition depot hit; HIMARS rocket systems destroyed |
-| **Ahmad al-Jaber Air Base** | Solid-state phased-array radar system destroyed |
-| **Offshore Oil Platform** | Kuwait Oil Company drilling platform struck by drone; one worker injured |
-| **Northern Border Posts** | Three land border posts damaged |
+| Factor | Explanation |
+|--------|-------------|
+| **Multiple cities** | The funeral procession spanned six days across five Iranian cities (Tehran, Qom, Mashhad, and others) plus two Iraqi cities (Najaf and Karbala) |
+| **Cumulative attendance** | The total represents combined attendance across all locations over multiple days |
+| **Iraqi confirmation** | Iraqi officials confirmed approximately 10 million attendees in Najaf and Karbala alone |
+| **State media reporting** | Iranian state media compiled and released the 41–43 million figure |
 
-### 🇶🇦 Qatar
+### What Was Claimed
 
-| Target | Damage Reported |
-|--------|-----------------|
-| **Al Udeid Air Base** | Command center and aircraft maintenance facility destroyed |
-| **Civilian Impact** | Two waves of ballistic missiles intercepted over Doha; falling debris injured three people, including a child |
-| **Hamad International Airport** | Attempted strike; airport operations disrupted |
+| What Was Claimed | By Whom |
+|------------------|---------|
+| 41–43 million attendees | Iranian state media (Fars, AhlulBayt News Agency, etc.) |
+| Largest funeral in human history | Iranian officials and state media |
 
-### 🇴🇲 Oman
+### What Can Be Confirmed
 
-| Target | Damage Reported |
-|--------|-----------------|
-| **Radar Systems** | FPS long-range aerial radar destroyed; vessel detection radar destroyed |
-| **Port of Duqm** | Key logistics center and refueling platform for US aircraft carriers hit |
-
-### 🇯🇴 Jordan
-
-| Target | Damage Reported |
-|--------|-----------------|
-| **Prince Hassan Air Base** | Fuel tanks and ammunition depots struck; command-and-control center and drone hangars reportedly destroyed |
-| **Civilian Casualties** | One missile reportedly hit a civilian house |
-
-### 🇦🇪 United Arab Emirates
-
-| Target | Damage Reported |
-|--------|-----------------|
-| **Defensive Actions** | UAE activated interceptor protocols after detecting drone and missile threats |
-| **Civilian Impact** | Loud explosions from interceptions heard near Abu Dhabi |
-
-### 🇸🇦 Saudi Arabia
-
-| Target | Damage Reported |
-|--------|-----------------|
-| **Ras Tanura Refinery** | Hit by Iranian strikes |
-| **Yanbu Refinery** | Hit by Iranian strikes |
-| **Maritime Attack** | Saudi oil tanker *Wadiyan* attacked and damaged in the Strait of Hormuz |
-
-### Overall Impact
-
-| Metric | Value |
-|--------|-------|
-| **Total Iranian projectiles launched (GCC)** | 4,000+ (as of July 2026) |
-| **Countries hit** | Bahrain, Kuwait, Qatar, Oman, Jordan, UAE, Saudi Arabia |
-| **Target type** | Military facilities, radar systems, energy infrastructure, ports, civilian areas |
-| **Casualties (Gulf states)** | 100+ military and civilian casualties confirmed |
-
-**Strategic significance:** The damage extends well beyond military sites and is "significantly weighted towards civilian infrastructure that is central to the global economy." The attacks pose a major threat to regional economic stability.
+| Certainty | Statement |
+|-----------|-----------|
+| **Confirmed** | Iranian state media claimed 41–43 million attendees |
+| **Confirmed** | Iraqi officials confirmed ~10 million in Najaf and Karbala |
+| **Confirmed** | The funeral was held over multiple days across five Iranian cities and two Iraqi cities |
+| **Confirmed** | The crowd was enormous — widely described as one of the largest gatherings in modern history |
+| **Confirmed** | The 41–43 million figure is a cumulative total across all locations and days |
 
 ---
 
@@ -318,7 +318,7 @@ Iran's retaliatory strikes have systematically targeted military, energy, and tr
 | Field | Value |
 |-------|-------|
 | **Archive ID** | `EL-GEO-IRAN-2026` |
-| **Version** | 2.1 (Updated — Gulf Infrastructure Damage Added) |
+| **Version** | 2.2 (Updated — Sections Reorganized) |
 | **Status** | PUBLISH READY |
 | **Related Entries** | `wesley-clark-2007.md`, `venezuela-regime-change-2026.md`, Colonialism Series |
 | **Licensing** | CC-BY-NC |
