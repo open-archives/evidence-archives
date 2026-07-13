@@ -9,3 +9,4 @@ Documents in this category:
 - [Mass Immigration — Demographics, Integration & Policy Trade-offs (2025-2026)](mass-immigration-demographics-2026.md)
 - [Feminism, Labor Markets & Economic Restructuring — Comprehensive Analysis (2025-2026)](feminism-labor-markets-economic-restructuring-2026.md)
 - [Peter Thiel, Palantir & Surveillance State — Comprehensive Analysis (2025-2026)](peter-thiel-palantir-surveillance-2026.md)
+- [Canadian Media Consolidation — Ownership Chains & Editorial Influence (2025-2026)](canadian-media-consolidation-2026.md)

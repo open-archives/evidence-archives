@@ -16,6 +16,7 @@
 - [Mass Immigration — Demographics, Integration & Policy Trade-offs (2025-2026)](../ANALYSIS/07_social-control/mass-immigration-demographics-2026.md)
 - [Feminism, Labor Markets & Economic Restructuring — Comprehensive Analysis (2025-2026)](../ANALYSIS/07_social-control/feminism-labor-markets-economic-restructuring-2026.md)
 - [Peter Thiel, Palantir & Surveillance State — Comprehensive Analysis (2025-2026)](../ANALYSIS/07_social-control/peter-thiel-palantir-surveillance-2026.md)
+- [Canadian Media Consolidation — Ownership Chains & Editorial Influence (2025-2026)](../ANALYSIS/07_social-control/canadian-media-consolidation-2026.md)
 - [Private Prison Profit & Enforcement Mechanisms (2025-2026)](../ANALYSIS/05_military-industrial/private-prison-money-trail-2026.md)
 - [Mass Incarceration Global Comparison (2025-2026)](../ANALYSIS/05_military-industrial/mass-incarceration-global-comparison-2026.md)
 - [CIA-Contra Cocaine & Crack Epidemic (1980s-2026)](../ANALYSIS/07_social-control/contra-cocaine-minority-communities-1980s.md)
