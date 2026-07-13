@@ -8,6 +8,7 @@
 - [Nord Stream Pipeline Sabotage Investigation](../ANALYSIS/02_infrastructure/nord-stream-investigation.md)
 - [Trump Family Cryptocurrency Income Disclosures (2024-2026)](../ANALYSIS/03_finance/trump-crypto-income-2026.md)
 - [Jeffrey Epstein Files Release - Clinton Connection](../ANALYSIS/04_elite-networks/epstein-files-clinton-2026.md)
+- [Venezuela Regime Change (2026)](../ANALYSIS/01_geopolitics/venezuela-regime-change-2026.md)
 
 ## Media Manipulation & Social Engineering
 - [Social Fragmentation & Divide-and-Conquer Strategy (2025-2026)](../ANALYSIS/07_social-control/social-fragmentation-2026.md)
