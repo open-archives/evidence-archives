@@ -7,3 +7,6 @@ Browse by category:
 - [05_military-industrial](05_military-industrial/)
 - [06_media-information](06_media-information/)
 - [07_social-control](07_social-control/)
+- [08_political-funding](08_political-funding/)
+- [09_conspiracy-theories](09_conspiracy-theories/)
+- [10_monroe-doctrine](10_monroe-doctrine/)
