@@ -13,3 +13,4 @@ Documents in this category:
 - [Canada "Catch and Release" Policies & Bill C-14 Reform (2026)](canada-catch-and-release-2026.md)
 - [Canada Gun Control Framework (2026)](canada-gun-control-2026.md)
 - [US Gun Violence & Policy (2026)](us-gun-violence-2026.md)
+- [U.S.-to-Canada Gun Smuggling Networks (2026)](us-canada-gun-smuggling-2026.md)
