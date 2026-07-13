@@ -20,12 +20,12 @@ Latin American cartels play an indirect role, primarily supplying and financing 
 
 | Claim | Supported by Data? | Source Evidence | Qualifiers |
 |-------|-------------------|-----------------|------------|
-| **~90% of seized firearms originate in the U.S.** | Yes | CBSA data; Ontario police tracing data | 88% of 2025 CBSA seizures; 91% of Ontario crime handguns |
-| **Over 21,000 crime guns traced to U.S. sources** | Yes | ATF / Canadian authorities | Historical tracing data |
-| **Top source states have loose gun laws** | Yes | ATF tracing reports | Ohio, Texas, Florida, Georgia, North Carolina |
-| **Latin American cartels smuggle directly to Canada** | No / Limited | Law enforcement intelligence | Cartel involvement is indirect (financing, supplying U.S. proxy gangs) |
-| **Ghost guns are a growing proportion of seizures** | Yes | Police reports; CBSA | Parts ordered online from U.S. and assembled in Canada |
-| **Domestic bans address smuggled guns** | No | Policy analysis | Bans only target legally acquired domestic stock (5-10% of crime guns) |
+| **~90% of seized firearms originate in the U.S.** | ✅ Yes | CBSA data; Ontario police tracing data | 88% of 2025 CBSA seizures; 91% of Ontario crime handguns |
+| **Over 21,000 crime guns traced to U.S. sources** | ✅ Yes | ATF / Canadian authorities | Historical tracing data |
+| **Top source states have loose gun laws** | ✅ Yes | ATF tracing reports | Ohio, Texas, Florida, Georgia, North Carolina |
+| **Latin American cartels smuggle directly to Canada** | ❌ No / Limited | Law enforcement intelligence | Cartel involvement is indirect (financing, supplying U.S. proxy gangs) |
+| **Ghost guns are a growing proportion of seizures** | ✅ Yes | Police reports; CBSA | Parts ordered online from U.S. and assembled in Canada |
+| **Domestic bans address smuggled guns** | ❌ No | Policy analysis | Bans only target legally acquired domestic stock (5-10% of crime guns) |
 
 ---
 
