@@ -7,3 +7,4 @@ Documents in this category:
 - [U.S. Weapons Manufacturing & Stockpile Depletion (2025-2026)](us-weapons-stockpile-2026.md)
 - [Surveillance Technology Arms Race — Global Market & Government Adoption (2025-2026)](surveillance-tech-arms-race-2026.md)
 - [Section 219 (formerly Section 224) — US-Israel Military Integration (2026)](us-israel-ndaa-219-2026.md)
+- [Final Synthesis: The Military-Industrial-Congressional Complex (2026)](mic-synthesis-2026.md)
