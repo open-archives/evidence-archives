@@ -36,4 +36,5 @@ That series covers:
 - **Religious Missionaries** — conversion as colonial tool
 - **Post-Colonial Economics** — IMF/World Bank, CFA franc
 - **Neocolonial Infrastructure** — China vs. U.S. competition
+- **China & the BRI** — Debt, Resource Extraction, Digital Silk Road, and the Opium/Fentanyl irony
 

@@ -3,6 +3,7 @@
 ## Academic / Historical
 - [Media Polarization & Information Warfare History (1950-2026)](../ANALYSIS/06_media-information/media-polarization-history-2026.md)
 - [Jewish Communism Connection: Facts vs. Propaganda (1890-2026)](../ANALYSIS/09_conspiracy-theories/jewish-communism-connection-facts-vs-propaganda-2026.md)
+- [U.S. Funding of Nationalist China (1941–1949)](../ANALYSIS/01_geopolitics/us-china-nationalist-1941-1949.md)
 
 ## Government / Official Releases
 - [Nord Stream Pipeline Sabotage Investigation](../ANALYSIS/02_infrastructure/nord-stream-investigation.md)

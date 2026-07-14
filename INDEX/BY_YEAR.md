@@ -3,6 +3,9 @@
 ## 1890-2026 (Historical Tracking)
 - [Jewish Communism Connection: Facts vs. Propaganda (1890-2026)](../ANALYSIS/09_conspiracy-theories/jewish-communism-connection-facts-vs-propaganda-2026.md)
 
+## 1941-1949 (Historical Tracking)
+- [U.S. Funding of Nationalist China (1941–1949)](../ANALYSIS/01_geopolitics/us-china-nationalist-1941-1949.md)
+
 ## 1950-1991 (Historical Tracking)
 - [Media Polarization & Information Warfare History (1950-2026)](../ANALYSIS/06_media-information/media-polarization-history-2026.md)
 
