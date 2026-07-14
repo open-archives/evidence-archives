@@ -12,3 +12,4 @@ Documents in this category:
 - [Bill & Melinda Gates Foundation — Conflicts of Interest & Global Power Analysis (2025-2026)](gates-foundation-conflicts-power-analysis-2026.md)
 - [Dialog Secret Society — Leak & Member Analysis (2025-2026)](dialog-secret-society-leak-2026.md)
 - [FDD — The Foundation for Defense of Democracies (2026)](fdd-2026.md)
+- [AIPAC — The Powerhouse Lobby (2026)](aipac-2026.md)
