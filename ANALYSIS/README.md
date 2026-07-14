@@ -9,4 +9,3 @@ Browse by category:
 - [07_social-control](07_social-control/)
 - [08_political-funding](08_political-funding/)
 - [09_conspiracy-theories](09_conspiracy-theories/)
-- [10_monroe-doctrine](10_monroe-doctrine/)
