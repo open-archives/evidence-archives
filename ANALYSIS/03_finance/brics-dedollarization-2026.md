@@ -70,5 +70,8 @@
 - [Yahoo Finance: U.S. Sanctions Spur a Paradox Pushing Allies Away](https://finance.yahoo.com/markets/currencies/articles/different-anything-past-80-years-132415372.html)
 - [Investopedia: De-Dollarization: What Is It, and Is It Happening?](https://www.investopedia.com/what-is-de-dollarization-7559514)
 
+## Related Archives
+- **`EL-COL-08-BRI`**: China, the BRI, & Neocolonialism (Analyzes the physical Belt and Road infrastructure that underpins yuan-based energy trade expansion).
+
 ---
 *Archived: July 12, 2026 | Evidence Locker v0.1*

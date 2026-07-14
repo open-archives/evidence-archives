@@ -269,7 +269,7 @@ The NDAA is considered "must-pass" legislation, as it has been passed annually f
 | **Archive ID** | `EL-MIC-SYNTHESIS-2026` |
 | **Version** | 2.0 (Final) |
 | **Status** | PUBLISH READY |
-| **Related Entries** | `EL-US-ISRAEL-NDAA-224-2026`, `EL-AIPAC-2026`, `EL-FDD-2026`, `EL-EISENHOWER-JFK-1961`, `EL-WESLEY-CLARK-2007`, `EL-GEO-VENEZUELA-2026` |
+| **Related Entries** | `EL-US-ISRAEL-NDAA-224-2026`, `EL-AIPAC-2026`, `EL-FDD-2026`, `EL-EISENHOWER-JFK-1961`, `EL-WESLEY-CLARK-2007`, `EL-GEO-VENEZUELA-2026`, `EL-COL-08-BRI` |
 | **Licensing** | CC-BY-NC |
 
 ---
