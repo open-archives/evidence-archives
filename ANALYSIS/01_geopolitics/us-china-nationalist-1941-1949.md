@@ -10,7 +10,7 @@
 
 ## Executive Summary
 
-From 1941 to 1949, the United States pursued a massive policy of military and economic support for the Nationalist government of Chiang Kai-shek. The scale of this assistance is one of the most contested points in modern Sino-American historiography. Today, U.S. official records and modern Chinese scholarship largely align, placing the total value between approximately $3.5 billion and $8 billion (in 1940s dollars), depending on surplus valuation. However, older propaganda-era Chinese Communist Party (CCP) texts frequently inflated this figure to over $60 billion through politically motivated accounting—specifically, by valuing depreciated surplus at face value and counting captured Japanese equipment as American aid.
+From 1941 to 1949, the United States pursued a massive policy of military and economic support for the Nationalist government of Chiang Kai-shek. The scale of this assistance is one of the most contested points in modern Sino-American historiography. Today, U.S. official records and modern Chinese scholarship largely align, placing the total value between approximately $3.5 billion and $8 billion (in 1940s dollars), depending on surplus valuation. However, older CCP propaganda texts frequently inflated this to over $60 billion through political accounting—valuing depreciated surplus at face value and counting captured Japanese equipment as American aid.
 
 This entry presents the historiographical consensus, rigorously analyzing the documented financial appropriations, the reality of military transfers, and the geopolitical context of Soviet counter-intervention.
 
@@ -128,7 +128,7 @@ Despite the accounting disputes, there is overwhelming consensus on *why* the Na
 | **Loss of popular support** | The regime became utterly disconnected from the agrarian base. |
 | **CCP effectiveness & Soviet Aid** | The Communists possessed strict discipline, organization, and a highly effective land reform platform that won peasant loyalty. **Crucially, in Manchuria, occupying Soviet forces covertly handed over massive stockpiles of captured Japanese weapons and munitions to the CCP, providing a vital military lifeline to balance U.S. aid to the Nationalists.** |
 
-**The decisive factor:** U.S. aid accounted for over **50% of Nationalist government expenditures** (a vital hard-currency lifeline given hyperinflation), yet the regime still collapsed. The problem was deep internal rot, not a lack of external support. As Major General David Barr, head of the U.S. Military Advisory Group, bluntly concluded: *"No battle has been lost since my arrival due to lack of ammunition or equipment. Their military debacles in my opinion can all be attributed to the world's worst leadership."*
+**The decisive factor:** U.S. aid accounted for over **50% of Nationalist government expenditures** (a vital hard-currency lifeline given hyperinflation), yet the regime still collapsed. The problem was deep internal rot, not a lack of external support. As Major General David Barr, head of the U.S. Military Advisory Group in China, bluntly concluded in his late-1948 report to the Department of the Army: *"No battle has been lost since my arrival due to lack of ammunition or equipment. Their military debacles in my opinion can all be attributed to the world's worst leadership."*
 
 ---
 
