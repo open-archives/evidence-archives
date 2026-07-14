@@ -5,3 +5,4 @@ Documents in this category:
 - [Venezuela Regime Change (2026)](venezuela-regime-change-2026.md)
 - [Iran 2026 — The War That Was Foretold](iran-war-2026.md)
 - [Israel as a U.S. Strategic Asset (2026)](us-israel-strategic-asset-2026.md)
+- [U.S. Funding of Nationalist China (1941–1949)](us-china-nationalist-1941-1949.md)
