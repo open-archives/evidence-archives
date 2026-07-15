@@ -21,7 +21,7 @@ A scalable, decentralized research methodology and permanent archive tracking gl
 
 ## How to Contribute
 
-We welcome verifiable, cited submissions. Read our [Contribution Guidelines](CONTRIBUTING.md) to understand the required format, taxonomy, and verification process.
+We welcome verifiable, cited submissions. Read our [Formatting & Methodology Guide](METHODOLOGY.md) to understand the required format, taxonomy, and verification process.
 
 *This is a living archive. Its power is in its modularity, decentralization, and strict adherence to primary source citation.*
 
