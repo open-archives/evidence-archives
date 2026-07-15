@@ -14,6 +14,7 @@ A scalable, decentralized research methodology and permanent archive tracking gl
   - [07_social-control](ANALYSIS/07_social-control/)
   - [08_political-funding](ANALYSIS/08_political-funding/)
   - [09_conspiracy-theories](ANALYSIS/09_conspiracy-theories/)
+  - [10_colonialism](ANALYSIS/10_colonialism/)
 - [**INDEX/**](INDEX/): The master tables of contents. Browse by [Theme](INDEX/BY_THEME.md), [Year](INDEX/BY_YEAR.md), or [Source](INDEX/BY_SOURCE.md).
 - [**DATA/**](DATA/): Raw PDFs, transcripts, and datasets.
 - [**TOOLS/**](TOOLS/): Scripts for archiving and scraping.
@@ -26,7 +27,7 @@ We welcome verifiable, cited submissions. Read our [Contribution Guidelines](CON
 
 ## Historical Foundation
 
-The colonial history that underpins this analysis is documented separately in the **[Evidence Locker — Colonialism Series](https://github.com/open-archives/evidence-locker-colonialism)** repository.
+The colonial history that underpins this analysis has been merged into this repository under the **[10_colonialism](ANALYSIS/10_colonialism/)** tab.
 
 That series covers:
 - **Berlin Conference (1884-85)** — the Scramble for Africa
